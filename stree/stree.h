@@ -36,6 +36,7 @@
 #include <map>
 #include <string>
 #include <iostream>
+#include <cstddef>
 #include "tree.hh"
 
 class stree {

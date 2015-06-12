@@ -19,6 +19,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <algorithm>
 #include "stree/stree.h"
 
 class Converter {
